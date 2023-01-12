@@ -20,12 +20,5 @@
     "morgan": "^1.10.0",
     "multer": "^1.3.0",
     "multer-gridfs-storage": "^1.3.0"
-<<<<<<< HEAD
-=======
-  },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
->>>>>>> d6583300a405855bf7404160f98a686ddc6ef44c
   }
 }
